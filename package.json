@@ -1,0 +1,1 @@
+{"name":"bohnenrunde","version":"1.1.1","private":true,"description":"Lokales Bohnenspiel für zwei Menschen, ohne Abhängigkeiten","scripts":{"test":"node --test tests/*.test.cjs","start":"python3 -m http.server 8080"}}
